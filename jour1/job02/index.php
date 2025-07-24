@@ -1,5 +1,5 @@
 <?php
-//  commentaire 1
+// 
 echo "Hello LaPlateforme!";
 
 /*
