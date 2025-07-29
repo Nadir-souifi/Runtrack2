@@ -1,0 +1,12 @@
+body {
+    background-color: #fff3cd;
+    font-family: 'Comic Sans MS', cursive;
+    color: #856404;
+}
+
+form {
+    background-color: #fff8dc;
+    padding: 20px;
+    border: 2px dashed #ffcc00;
+    width: 300px;
+}

@@ -1,0 +1,12 @@
+body {
+    background-color: #1e1e1e;
+    font-family: 'Courier New', monospace;
+    color: #f1f1f1;
+}
+
+form {
+    background-color: #333;
+    padding: 20px;
+    border: 2px solid #00bcd4;
+    width: 300px;
+}
